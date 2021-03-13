@@ -9,10 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
-    "fs": "0.0.1-security"
+    "express": "^4.17.1"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CodeWarrior-debug/hw11-notes-express-w-node-express.git"
@@ -21,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/CodeWarrior-debug/hw11-notes-express-w-node-express/issues"
   },
-  "homepage": "https://github.com/CodeWarrior-debug/hw11-notes-express-w-node-express#readme"
+  "homepage": "https://github.com/CodeWarrior-debug/hw11-notes-express-w-node-express#readme",
+  "devDependencies": {}
 }
