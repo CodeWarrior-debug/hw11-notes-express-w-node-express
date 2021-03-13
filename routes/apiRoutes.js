@@ -1,19 +1,26 @@
 const notesData = require('../db/db.json')
 
 module.exports= (app) => {
-    app.get('/api/tables', (req, res) => res.json(notesData)); //***FIX api tables****/
+    app.get('/api/notes', (req, res) => res.json(notesData)); //***FIX api tables****/
 
-    app.post('/api/tables', (req, res) => {
+    app.post('/api/notes', (req, res) => {
         // Note the code here. Our "server" will respond to requests and let users know if they have a table or not.// It will do this by sending out the value "true" have a table// req.body is available since we're using the body parsing middleware
-        if (tableData.length < 5) {
-          tableData.push(req.body);
+          notesData.push(req.body);  //should receive a new note to save on the request body, add it to the `db.json` file, 
           res.json(true);
-        } else {
-          waitListData.push(req.body);
-          res.json(false);
+          //now need to return the new note to the client. You'll need to find a way to give each note a unique id when it's saved (look into `npm` packages that could do this for you).
         }
-      });
+   );
 }
+
+  
+// The following API routes should be created:
+  
+//* `GET /api/notes` should read the `db.json` file and return all saved notes as JSON.
+
+//* `POST /api/notes` should receive a new note to save on the request body, add it to the `db.json` file, and then return the new note to the client. You'll need to find a way to give each note a unique id when it's saved (look into `npm` packages that could do this for you).
+
+
+
 //**********************************BELOW IS HOT RESTAURANT******************/
 
 // LOAD DATA
