@@ -36,13 +36,13 @@
   
   ## Previews
   ---
-  https://github.com/CodeWarrior-debug/hw11-notes-express-w-node-express/blob/main/public/assets/img/LandingPage.png?raw=true
-  https://github.com/CodeWarrior-debug/hw11-notes-express-w-node-express/blob/main/public/assets/img/SaveNote.png?raw=true
+  ![Landing Page](https://github.com/CodeWarrior-debug/hw11-notes-express-w-node-express/blob/main/public/assets/img/LandingPage.png?raw=true)
+  ![Notes Page](https://github.com/CodeWarrior-debug/hw11-notes-express-w-node-express/blob/main/public/assets/img/SaveNote.png?raw=true)
 
   ## Demo
   ---
   
-  https://github.com/CodeWarrior-debug/hw11-notes-express-w-node-express/blob/main/public/assets/img/Note%20Taker.gif?raw=true
+  ![Demo](https://github.com/CodeWarrior-debug/hw11-notes-express-w-node-express/blob/main/public/assets/img/Note%20Taker.gif?raw=true)
   
   ## License
   ---
