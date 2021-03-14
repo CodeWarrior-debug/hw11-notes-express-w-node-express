@@ -3,7 +3,7 @@
 
   ## Table of Contents
   ---
-  * [Description](#description) | [Installation](#installation) | [Tests](#tests) | [Usage](#usage) | [Contributing](#contributing) | [Questions](#questions) | [License](#license)
+  [Description](#description) | [Installation](#installation) | [Tests](#tests) | [Usage](#usage) | [Contributing](#contributing) | [Questions](#questions) | [License](#license)
 
   ## Description
   ---
@@ -28,7 +28,22 @@
   ## Questions
   ---
   https://github.com/CodeWarrior-debug
+  
+  ## Links
+  ---
+  https://github.com/CodeWarrior-debug/hw11-notes-express-w-node-express
+  https://arcane-headland-46387.herokuapp.com/
+  
+  ## Previews
+  ---
+  https://github.com/CodeWarrior-debug/hw11-notes-express-w-node-express/blob/main/public/assets/img/LandingPage.png?raw=true
+  https://github.com/CodeWarrior-debug/hw11-notes-express-w-node-express/blob/main/public/assets/img/SaveNote.png?raw=true
 
+  ## Demo
+  ---
+  
+  https://github.com/CodeWarrior-debug/hw11-notes-express-w-node-express/blob/main/public/assets/img/Note%20Taker.gif?raw=true
+  
   ## License
   ---
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT)
