@@ -1,7 +1,7 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "## Your Task",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,19 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
-    "fs": "0.0.1-security",
-    "path": "^0.12.7",
-    "uuid": "^8.3.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CodeWarrior-debug/hw11-notes-express-w-node-express.git"
-  },
-  "keywords": [],
-  "bugs": {
-    "url": "https://github.com/CodeWarrior-debug/hw11-notes-express-w-node-express/issues"
-  },
-  "homepage": "https://github.com/CodeWarrior-debug/hw11-notes-express-w-node-express#readme",
-  "devDependencies": {}
+    "express": "^4.16.4"
+  }
 }
